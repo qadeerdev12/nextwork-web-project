@@ -29,3 +29,6 @@ phases:
 artifacts:
   files:
     - target/nextwork-web-project.war
+    - appsec.yml
+    - scripts/**/*
+  discard-paths: no
